@@ -65,7 +65,13 @@ gap: 40px;
 .Presentacion__contenido__texto{
     font-size: 1.5rem;
     font-family: var(--letra_montserrat);
+    text-align: justify;
    
+}
+
+.Presentacion__contenido__texto_cursos{
+    font-size: 1.5rem;
+    font-family: var(--letra_montserrat);
 }
 .Presentacion__enlaces{
     display: flex;
