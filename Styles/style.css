@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 
 :root{
-    --color-primario:#000000;
-    --color-secundario:#f6f6f6;
-    --color-terciario: #22D4FD;
-    --color-hover:#272727;
+    --color-primario:#0d1b2a;
+    --color-secundario:#e0e1dd;
+    --color-terciario: #778da9;
+    --color-hover:#1b263b;
 
     --letra_montserrat: 'Montserrat', sans-serif;
     --letra-krona-one:'Krona One', sans-serif;
@@ -113,7 +113,7 @@ background-color: var(--color-hover);
     font-weight: 400;
 }
 .Presentacion__imagen{
-    width: 50%;
+    width: 30%;
 }
 @media (max-width:1200px){
     .header{
